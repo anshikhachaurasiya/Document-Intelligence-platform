@@ -660,7 +660,7 @@ and `DATA/true_data/`, then run the ingestion pipeline to generate `processed_da
 This project is intended for educational and development purposes.
 
 ## 👨‍💻 Author
-**Your Name- Anshikha Chaurasiya**
+**Anshikha Chaurasiya**
 GitHub: https://github.com/anshikhachaurasiya
 
 ## ⭐ Acknowledgements
