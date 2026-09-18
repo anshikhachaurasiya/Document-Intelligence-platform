@@ -649,13 +649,19 @@ Contributions are welcome.
 3. Commit your changes (`git commit -m "feat: add new feature"`)
 4. Push the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
+ ## Data
+This repo excludes the `DATA/` (raw noisy and true documents) and `processed_data/` 
+(processed JSON outputs) folders to keep the repository lightweight. 
+
+To run the pipeline locally, place your own documents inside `DATA/noisy_data/` 
+and `DATA/true_data/`, then run the ingestion pipeline to generate `processed_data/`.
 
 ## 📜 License
 This project is intended for educational and development purposes.
 
 ## 👨‍💻 Author
 **Your Name**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/anshikhachaurasiya
 
 ## ⭐ Acknowledgements
 Built using open-source technologies and frameworks including:
